@@ -3,7 +3,7 @@
 Site-portfólio profissional para o DJ **Kvsper**, com seções de **vídeos (sets/lives)** , **cartazes de eventos (flyers)** e **agenda de shows**. Desenvolvido com HTML, CSS e JavaScript puro – totalmente editável através do arquivo `data.js`.
 
 ![Visual do site](assets/screenshot.png)
-*(adicione um print do seu site na pasta assets/screenshot.png depois)*
+**
 
 ## ✨ Funcionalidades
 
